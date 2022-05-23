@@ -1,0 +1,16 @@
+$background: red;
+
+.container{
+    text-align: center;
+    background-color: $background;
+    .header{
+        .full-name{
+            background-color: $background;
+            .first-name{
+                font-size: 20px;
+                color: white;
+                background-color: black;
+            }
+        }
+    }
+}

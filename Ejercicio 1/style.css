@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  background-color: red;
+}
+.container .header .full-name {
+  background-color: red;
+}
+.container .header .full-name .first-name {
+  font-size: 20px;
+  color: white;
+  background-color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
